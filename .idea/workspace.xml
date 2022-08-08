@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed13a914-a6a9-4e30-ba03-c1c4df1bd1d6" name="Changes" comment="" />
+    <list default="true" id="ed13a914-a6a9-4e30-ba03-c1c4df1bd1d6" name="Changes" comment="create project">
+      <change beforePath="$PROJECT_DIR$/.idea/mentoring_challenges_v01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mentoring_challenges_v01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CpEuSffA5c2LNs05CXQyGPRoeI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,12 +30,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/mauro/Área de Trabalho/mentoring/mentoring_challenges_v01",
+    "last_opened_file_path": "/home/mauro/Área de Trabalho/missao_1/desafio_01",
     "nodejs_package_manager_path": "npm",
     "ruby.rails.projectView.checked": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ed13a914-a6a9-4e30-ba03-c1c4df1bd1d6" name="Changes" comment="" />
@@ -35,6 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659491348119</updated>
       <workItem from="1659491349331" duration="414000" />
+      <workItem from="1659491807451" duration="948000" />
+      <workItem from="1659548065876" duration="32000" />
     </task>
     <servers />
   </component>
@@ -51,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create project" />
   </component>
 </project>
