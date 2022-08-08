@@ -1,24 +1,31 @@
-# README
+README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Mentoring Challenges_v1.0
 
-Things you may want to cover:
+#### Challenges proposed by the DesenvolvendoMe mentorship. This challenge aims at professional evolution
 
-* Ruby version
+----
 
-* System dependencies
+Some technical requirements of the project:
 
+* Ruby version: 3.1.2
+* Rails version: 7.0.3
+* System Linux Mint 20.3
 * Configuration
+* Database creation: SQLite
 
-* Database creation
+P.S.: As the development of the challenge tasks progresses, this README file will be enriched with more information and technical data.
 
-* Database initialization
+----
 
-* How to run the test suite
+Challenge 1: Implement the C.R.U.D.s
+1. [ ] Cadastrar Autores
+2. [ ] Cadastrar Livros vinculando com Autor
+3. [ ] Cadastrar Fornecedores com uma Conta
+4. [ ] Cadastrar Peças vinculando com Fornecedor
+5. [ ] Cadastrar Montagens com várias Peças e vinculando com Livro
 
-* Services (job queues, cache servers, search engines, etc.)
+---
 
-* Deployment instructions
-
-* ...
+<br>Mentor / Leader: <strong>Marco Castro</strong>
+<br>Studant / Author: <strong>Mauro Biazutti (mauro_biazutti@gmail.com)</strong>
