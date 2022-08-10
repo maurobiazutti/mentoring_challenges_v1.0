@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Mountings</h1>
+
+<div id="mountings">
+  <% @mountings.each do |mounting| %>
+    <%= render mounting %>
+    <p>
+      <%= link_to "Show this mounting", mounting %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New mounting", new_mounting_path %>

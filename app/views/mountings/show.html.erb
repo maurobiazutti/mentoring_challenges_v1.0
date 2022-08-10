@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @mounting %>
+
+<div>
+  <%= link_to "Edit this mounting", edit_mounting_path(@mounting) %> |
+  <%= link_to "Back to mountings", mountings_path %>
+
+  <%= button_to "Destroy this mounting", @mounting, method: :delete %>
+</div>

@@ -1,0 +1,27 @@
+<%= form_with(model: mounting) do |form| %>
+  <% if mounting.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(mounting.errors.count, "error") %> prohibited this mounting from being saved:</h2>
+
+      <ul>
+        <% mounting.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div>
+    <%= form.label :book_id, style: "display: block" %>
+    <%= form.text_field :book_id %>
+  </div>
+
+  <div>
+    <%= form.label :part_id, style: "display: block" %>
+    <%= form.text_field :part_id %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>
