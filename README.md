@@ -19,11 +19,11 @@ P.S.: As the development of the challenge tasks progresses, this README file wil
 ----
 
 Challenge 1: Implement the C.R.U.D.s
-1. [ ] Cadastrar Autores
-2. [ ] Cadastrar Livros vinculando com Autor
-3. [ ] Cadastrar Fornecedores com uma Conta
-4. [ ] Cadastrar Peças vinculando com Fornecedor
-5. [ ] Cadastrar Montagens com várias Peças e vinculando com Livro
+1. [x] Cadastrar Autores
+2. [x] Cadastrar Livros vinculando com Autor
+3. [x] Cadastrar Fornecedores com uma Conta
+4. [x] Cadastrar Peças vinculando com Fornecedor
+5. [x] Cadastrar Montagens com várias Peças e vinculando com Livro
 
 ---
 
